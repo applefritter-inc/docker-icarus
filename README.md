@@ -7,7 +7,7 @@ it allows you to run the icarus server on macOS/windows, without the need for a 
 
 ## how to use?
 1. clone docker image with `docker pull appleflyer/icarus-server`
-2. run docker image `docker run -it -p 0.0.0.0:8126:8126 appleflyer/icarus-docker`
+2. run docker image `docker run -it -p 0.0.0.0:8126:8126 appleflyer/icarus-server`
 
 ## credits
 icarus server: [writable](https://github.com/MunyDev) \
