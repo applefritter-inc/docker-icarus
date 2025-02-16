@@ -3,7 +3,7 @@
 ### [source code](https://github.com/applefritter-inc/docker-icarus/)
 
 why make this?
-it allows you to run the icarus server on macOS/windows, without the need for a VM to run linux.
+it allows you to run the icarus server on macOS/windows, without the need for a VM to run linux. \
 it also reduces the complications of running icarus on linux.
 
 ## how to use?
